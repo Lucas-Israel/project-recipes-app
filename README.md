@@ -5,6 +5,10 @@
 ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+# :busts_in_silhouette: Projeto desenvolvido em conjunto com:
+  
+#### [Artur Senna](https://github.com/artursennass), [Yury Stolarz Santana](https://github.com/yuryss98), [Luis Arthur Rodrigues da Silva](https://github.com/luisArthurRodriguesDaSilva) e [Vinicius Kaminski](https://github.com/Kaminskifking)
+
 # :open_book: Objetivo do projeto recipes app
 
 <details>
